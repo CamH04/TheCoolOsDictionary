@@ -13,6 +13,18 @@ It has a few builds in the works such as
 3. AlbaOS For Mc (tweaked:cc)
 4. AlbaOS Rusty (Rewrite Of x86 build in rust)
 
+##Compiling
+Run
+` make build `
+to generate the iso file 
+
+## Run
+Run 
+` make run `
+to run under qemu
+
+
+---
 ```       
        <3
   (^,^)  (^,^)
