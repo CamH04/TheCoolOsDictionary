@@ -1,4 +1,4 @@
-# BleskOS# AlbaOS
+# AlbaOS
 ## Made By CamH04 / Alba
 [GitHub Link](https://github.com/CamH04/AlbaOS)
 
