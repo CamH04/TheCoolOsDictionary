@@ -7,11 +7,13 @@ If you like this repo, give it a star and have a look at my GitHub for other stu
 ## List Of Open Source Os's included:
 [AlbaOS](https://github.com/CamH04/TheCoolOsDictionary/blob/master/AlbaOS/README.md)
 [BleskOS](https://github.com/CamH04/TheCoolOsDictionary/blob/master/BleskOS/README.md)
+[cavOS](https://github.com/CamH04/TheCoolOsDictionary/blob/master/cavOS/README.md)
 ## To Be Included
-- cavOS
 - EndeavourOS
 - KolibriOs
 - MSDOS
 - OsakaOS
 - SerentiyOS
 - TempleOS
+### <3
+If you like this also check out my [articles](https://albasoftware-articles.netlify.app/) and some other [stuff](https://albasoftware.netlify.app/) [<3](https://camhdeveloper.netlify.app/)
